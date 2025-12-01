@@ -1,0 +1,46 @@
+# Arquivos de texto sensíveis
+*.txt
+
+# Chaves de criptografia
+*.key
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Diretórios de teste
+test_files/
+**/test_files/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos criptografados
+*.encrypted
+RESCUE-ARQUIVOS.txt
+keylog.txt
